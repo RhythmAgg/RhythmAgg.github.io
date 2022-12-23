@@ -23,6 +23,7 @@ let data;
     { name: 'CSS/SASS', level: 85 },
     { name: 'React JS', level: 80 },
     { name: 'React Native', level: 75 },
+    { name: 'Python', level: 80 },
     // { name: 'ML / AI', level: 60 },
     // { name: 'Django', level: 80 },
     { name: 'Express.js', level: 60 },
